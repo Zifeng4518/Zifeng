@@ -7,11 +7,11 @@ Physician-scientist in training, working at the intersection of clinical medicin
 - 🔬 Research: statistical and machine learning methods for the identification of **cardiometabolic disease**
 - 📍 Oxford, UK · Beijing, China
 
-## 🧠 Research Interests
+## Research Interests
 
-- Machine learning for cardiometabolic risk stratification (cardiovascular disease, diabetes, obesity)
+- Machine learning for cardiometabolic risk stratification (cardiovascular disease, MASLD, obesity)
 - Statistical modelling with large-scale cohort and electronic health record data
 - Clinical prediction model development, validation, and interpretability
 - Translating computational findings into clinically actionable insights
 
-<sub>Oxford ⇄ Beijing · Medicine meets data</sub>
+<sub>Oxford ⇄ Beijing · Medicine and Data Science</sub>
