@@ -14,6 +14,11 @@ Physician-scientist in training, working at the intersection of clinical medicin
 - Statistical and machine learning models
 - Evidence synthesis
 
+## Recent Works
+
+- ORBIT: https://github.com/yang-luo-lab/ORBIT; https://github.com/yang-luo-lab/Rank-based-integration-identifies-convergent-disease-mechanisms-across-omics .
+
+
 ## Selected Publications & Presentations
 
 - **Qiu Z**, et al. Association between early age body mass index and the risk of adulthood cardiovascular diseases: a systematic review and meta-analysis. *International Journal of Obesity*, 2025. [Link](https://www.nature.com/articles/s41366-024-01710-4)
