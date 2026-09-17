@@ -16,8 +16,7 @@ Physician-scientist in training, working at the intersection of clinical medicin
 
 ## Recent Works
 
-- ORBIT: https://github.com/yang-luo-lab/ORBIT; https://github.com/yang-luo-lab/Rank-based-integration-identifies-convergent-disease-mechanisms-across-omics .
-
+- ORBIT: https://github.com/yang-luo-lab/ORBIT; Web version **[Click here](https://yang-luo-lab.github.io/Rank-based-integration-identifies-convergent-disease-mechanisms-across-omics/)**
 
 ## Selected Publications & Presentations
 
